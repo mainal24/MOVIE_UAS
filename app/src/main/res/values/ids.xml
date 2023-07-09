@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bottom_navigation" type="id" />
+    <item name="menu_movie" type="id" />
+    <item name="menu_tv" type="id" />
+    <item name="fl_fragment" type="id" />
+</resources>
